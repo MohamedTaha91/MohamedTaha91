@@ -9,7 +9,7 @@ I am a passionate Full-Stack Developer recently certified in the MERN stack (Mon
 - **Languages:** JavaScript, Python, HTML, CSS, SQL
 - **Frontend:** React, Next.js, Tailwind CSS, Flutter
 - **Backend:** Node.js, Express, MongoDB, SQLite
-- **Tools:** Vite, Figma, Netlify, Git, Docker
+- **Tools:** Vite, Figma, Netlify, Git
 - **Other Skills:** Process Design, Simulation, Linear Programming, HAZOP Studies
 
 ---
@@ -24,9 +24,6 @@ As a Freelance Frontend Developer, I am continuously enhancing my skills in mode
 
 - **LinkedIn:** [Mohamed Taha](https://www.linkedin.com/in/taha-web-developer)
 - **Email:** [taha_acme@hotmail.com](mailto:taha_acme@hotmail.com)
-- **Phone:** +34 618279899
-- **Location:** Barcelona, Catalonia, Spain
-
 ---
 
 ## 🌟 Let's Connect!
