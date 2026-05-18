@@ -1,31 +1,25 @@
-# 👋 Hello, I'm Mohamed Taha
+# Mohamed Taha
 
-I am a passionate Full-Stack Developer recently certified in the MERN stack (MongoDB, Express, React, Node.js) with a strong background in chemical/process engineering. My career journey has taken me from the meticulous world of engineering to the dynamic realm of web development. I thrive in action-oriented environments and excel at transforming complex design concepts into functional and responsive web applications.
+Frontend Developer building responsive, user-focused web applications with React, TypeScript, and modern CSS.
 
----
+## What I Build
 
-## 🚀 Technologies & Tools
+- **[ReFIT](https://github.com/MohamedTaha91/ReFIT)** — Injury-aware workout tracker PWA with progress analytics, body-part tracking, and a trophy system. Built with vanilla JS, IndexedDB, and service workers.
+- **[CheckInWithMe](https://github.com/MohamedTaha91/CheckInWithMe)** — Team wellness check-in app for managers and mentees. Built with TypeScript.
+- **[E-commerce App](https://github.com/MohamedTaha91/E-commerce-app)** — Full e-commerce experience built with Next.js, TypeScript, and PostgreSQL.
+- **[Solaris 2025](https://github.com/MohamedTaha91/Solaris-2025)** — Website built with Astro.
 
-- **Languages:** JavaScript, Python, HTML, CSS, SQL
-- **Frontend:** React, Next.js, Tailwind CSS, Flutter
-- **Backend:** Node.js, Express, MongoDB, SQLite
-- **Tools:** Vite, Figma, Netlify, Git
-- **Other Skills:** Process Design, Simulation, Linear Programming, HAZOP Studies
+## Tech Stack
 
----
+**Core:** JavaScript, TypeScript, React, Next.js  
+**Styling:** Tailwind CSS, CSS3, responsive design  
+**Tools:** Vite, Git, Figma  
+**Also worked with:** Node.js, Express, MongoDB, PostgreSQL
 
-## 🔨 What I'm Currently Working On
+## Currently
 
-As a Freelance Frontend Developer, I am continuously enhancing my skills in modern web development technologies and methodologies. My recent projects have involved close collaboration with UX/UI designers to deliver seamless user experiences, utilizing tools like React, Tailwind CSS, and Vite to bring designs to life.
+Building frontend projects and looking for my next role. Open to full-time, contract, or freelance work.
 
----
+## Connect
 
-## 📫 How to Reach Me
-
-- **LinkedIn:** [Mohamed Taha](https://www.linkedin.com/in/taha-web-developer)
-- **Email:** [taha_acme@hotmail.com](mailto:taha_acme@hotmail.com)
----
-
-## 🌟 Let's Connect!
-
-I'm always open to discussing new opportunities, collaborations, or simply exchanging ideas about the latest in tech. Feel free to reach out!
+[LinkedIn](https://www.linkedin.com/in/taha-web-developer) | [Portfolio](https://mohamedtaha91.github.io) | taha_acme@hotmail.com
