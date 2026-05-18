@@ -8,6 +8,7 @@ Frontend Developer building responsive, user-focused web applications with React
 - **[CheckInWithMe](https://github.com/MohamedTaha91/CheckInWithMe)** — Team wellness check-in app for managers and mentees. Built with TypeScript.
 - **[E-commerce App](https://github.com/MohamedTaha91/E-commerce-app)** — Full e-commerce experience built with Next.js, TypeScript, and PostgreSQL.
 - **[Solaris 2025](https://github.com/MohamedTaha91/Solaris-2025)** — Website built with Astro.
+- **[Portfolio](https://github.com/MohamedTaha91/moe-portfolio)** — This site. Built with Next.js, TypeScript, and Tailwind CSS.
 
 ## Tech Stack
 
