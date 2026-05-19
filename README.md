@@ -5,6 +5,7 @@ Frontend Developer building responsive, user-focused web applications with React
 ## What I Build
 
 - **[ReFIT](https://github.com/MohamedTaha91/ReFIT)** — Injury-aware workout tracker PWA with progress analytics, body-part mapping, and a trophy system. Built with vanilla JS, IndexedDB, and service workers.
+- **[Solaris Consultants](https://solaris-consultants.com)** — Business website for an asset management consulting firm. React, Tailwind CSS, responsive design. ([source](https://github.com/MohamedTaha91/SolarisProject))
 - **[Portfolio](https://github.com/MohamedTaha91/moe-portfolio)** — My portfolio site. Built with Next.js, TypeScript, and Tailwind CSS.
 
 ## Tech Stack
